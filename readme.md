@@ -1,1 +1,1 @@
-Simple CSS design a menu page for a cafe webpage.
+Simple CSS design menu page for a cafe webpage.
